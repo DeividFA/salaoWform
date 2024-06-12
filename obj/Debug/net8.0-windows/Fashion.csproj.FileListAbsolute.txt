@@ -1,0 +1,16 @@
+C:\Salao\Fashion\bin\Debug\net8.0-windows\Fashion.exe
+C:\Salao\Fashion\bin\Debug\net8.0-windows\Fashion.deps.json
+C:\Salao\Fashion\bin\Debug\net8.0-windows\Fashion.runtimeconfig.json
+C:\Salao\Fashion\bin\Debug\net8.0-windows\Fashion.dll
+C:\Salao\Fashion\bin\Debug\net8.0-windows\Fashion.pdb
+C:\Salao\Fashion\obj\Debug\net8.0-windows\Fashion.Form1.resources
+C:\Salao\Fashion\obj\Debug\net8.0-windows\Fashion.csproj.GenerateResource.cache
+C:\Salao\Fashion\obj\Debug\net8.0-windows\Fashion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Salao\Fashion\obj\Debug\net8.0-windows\Fashion.AssemblyInfoInputs.cache
+C:\Salao\Fashion\obj\Debug\net8.0-windows\Fashion.AssemblyInfo.cs
+C:\Salao\Fashion\obj\Debug\net8.0-windows\Fashion.csproj.CoreCompileInputs.cache
+C:\Salao\Fashion\obj\Debug\net8.0-windows\Fashion.dll
+C:\Salao\Fashion\obj\Debug\net8.0-windows\refint\Fashion.dll
+C:\Salao\Fashion\obj\Debug\net8.0-windows\Fashion.pdb
+C:\Salao\Fashion\obj\Debug\net8.0-windows\Fashion.genruntimeconfig.cache
+C:\Salao\Fashion\obj\Debug\net8.0-windows\ref\Fashion.dll
